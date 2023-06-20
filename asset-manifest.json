@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactprimevideo/static/css/main.8021a390.css",
+    "main.js": "/reactprimevideo/static/js/main.a23d0ac4.js",
+    "static/media/slick.svg": "/reactprimevideo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactprimevideo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactprimevideo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactprimevideo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactprimevideo/index.html",
+    "main.8021a390.css.map": "/reactprimevideo/static/css/main.8021a390.css.map",
+    "main.a23d0ac4.js.map": "/reactprimevideo/static/js/main.a23d0ac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8021a390.css",
+    "static/js/main.a23d0ac4.js"
+  ]
+}
